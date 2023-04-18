@@ -1,0 +1,23 @@
+.itemSum{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.frete{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.total {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.submitButton {
+    width: 18vw;
+    height: 5vh;
+    margin: 2vh 2vh 2vh 2vh;
+}

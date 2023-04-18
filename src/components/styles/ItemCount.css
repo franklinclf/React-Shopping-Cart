@@ -1,0 +1,28 @@
+.count-container {
+    display: flex;
+    flex-flow: row;
+    gap: 1vh;
+    align-items: center;
+}
+
+button {
+    padding: 0;
+    margin: 1vh;
+    width: 1.5vw;
+    height: 1.5vw;
+    border: 0px;
+    border-radius: 1vh;
+    text-align: center;
+    color:rgb(80, 80, 80);
+    font-size: 2vh;
+}
+
+button:hover {
+    cursor: pointer;
+    box-shadow: 0px 0px 0.3vh 0.2vh rgba(204, 204, 204, 1);
+}
+
+.item-count {
+    width: 3vh;
+    text-align: center;
+}
